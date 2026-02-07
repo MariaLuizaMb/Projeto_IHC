@@ -1,4 +1,4 @@
-# Plataforma de Sustentabilidade 🌱  
+# 🌱 Plataforma de Sustentabilidade   
 ### Projeto de UI/UX – Interação Humano-Computador
 
 Projeto desenvolvido na disciplina **Interação Humano-Computador (GCC219)**, no **4º período do curso de Sistemas de Informação (UFLA)**, com foco na aplicação prática de **design centrado no usuário**, **métodos de IHC** e **prototipação de interfaces mobile**.
@@ -146,5 +146,16 @@ Também foram definidos:
 - Disciplina: **Interação Humano-Computador (GCC219)**
 - Instituição: Universidade Federal de Lavras – UFLA
 - Período: 4º período – Sistemas de Informação
+
+---
+
+## 👩‍💻 Autora
+
+**Maria Luiza Bernardo Madeira**  
+Estudante de Sistemas de Informação  
+Área de interesse em UI/UX e Product Design
+
+📍 Lavras – MG  
+📅 2024
 
 ---
