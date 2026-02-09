@@ -6,6 +6,12 @@ Projeto desenvolvido na disciplina **Interação Humano-Computador (GCC219)**, n
 O trabalho contempla todas as etapas do processo de UX: **pesquisa com usuários, definição de personas, modelagem de tarefas, design de interfaces, prototipação e planejamento de testes de usabilidade**.
 
 ---
+## 🔗 Protótipo
+
+📎 **Protótipo no Figma:**  
+> [*Link para o protótipo*](https://www.figma.com/design/HLs6F1QdFenugMSof99R6X/Projeto-IHC?node-id=0-1&t=bYJDKK9dMR3gFNL6-1)
+
+---
 
 ## 🎯 Contexto do Projeto
 
@@ -131,13 +137,6 @@ Também foram definidos:
 - **Figma** – Prototipação de interfaces
 - **Google Forms** – Pesquisa com usuários
 - **System Usability Scale (SUS)** – Avaliação de usabilidade
-
----
-
-## 🔗 Protótipo
-
-📎 **Protótipo no Figma:**  
-> [*Link para o protótipo*](https://www.figma.com/design/HLs6F1QdFenugMSof99R6X/Projeto-IHC?node-id=0-1&t=bYJDKK9dMR3gFNL6-1)
 
 ---
 
