@@ -9,7 +9,7 @@ O trabalho contempla todas as etapas do processo de UX: **pesquisa com usuários
 ## 🔗 Protótipo
 
 📎 **Protótipo no Figma:**  
-> [*Link para o protótipo*](https://www.figma.com/design/HLs6F1QdFenugMSof99R6X/Projeto-IHC?node-id=0-1&t=bYJDKK9dMR3gFNL6-1)
+> [*Link para o protótipo*](https://www.figma.com/design/HZasUBNCxt3LWBGCXoQs6f/Sustentify?node-id=0-1&t=NQoHZq79YxThBEBX-1)
 
 ---
 
